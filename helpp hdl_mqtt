@@ -1,0 +1,16 @@
+Привет 
+дай свой контакт какой-нибудь
+запустил зачачку твою hdl_mqtt она у меня в HA выводит толькль каналы релей ного модуля как датчики типа вкл выкл
+дебаг пишет что то вроде :
+
+2020/01/22 10:50:18 [DEBUG] unsupported device type with address: 1 29
+2020/01/22 10:50:18 [DEBUG] number of hdl events left in channel: 0
+2020/01/22 10:50:18 [DEBUG] event from: 1 29
+2020/01/22 10:50:18 [DEBUG] unsupported device type with address: 1 29
+
+1 29 это как раз релюшка моя 16 канальная 
+как бы добавить поддержку 
+и саму задачу бы не для арм а для x86 сделать 
+89266215256
+dimonchg@gmail.com
+dimka_chg1 skype
